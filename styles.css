@@ -17,6 +17,7 @@
     padding: 6px 10px;
     border-radius: 50%;
     background-color: aqua;
+	display: flex;
 }
 
 .row2{
